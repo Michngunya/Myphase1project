@@ -48,6 +48,7 @@ This project, prepared by **Michie's Insights Consultancy**, analyzes aviation d
 * Top & Bottom 10 Aircraft Models by Risk Score.
 * Engine Type and Number of Engines vs. Risk.
 * Model-level risk comparison by engine configuration.
+* tableau dashboard - https://public.tableau.com/app/profile/michelle.n1762/viz/survivalanalysinbyairplanemodelandenginetype/Dashboard1
 
 ## Recommendations Output
 
@@ -60,3 +61,4 @@ The final cells of the notebook summarize:
 ## Authors
 
 **Prepared by:** Michie's Insights Consultan
+
